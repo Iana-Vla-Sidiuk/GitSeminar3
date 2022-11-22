@@ -5,3 +5,5 @@
 > git status
 
 > git add
+
+> git log
